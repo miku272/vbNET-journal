@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Journal_Program_10/1.0.0": {
+        "runtime": {
+          "Journal_Program_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Journal_Program_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
