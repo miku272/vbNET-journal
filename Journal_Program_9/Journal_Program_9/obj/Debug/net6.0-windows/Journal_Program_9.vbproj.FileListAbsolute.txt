@@ -2,7 +2,6 @@ D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\bin\Debug\net6.0-windows\Journal_Program_9.deps.json
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\bin\Debug\net6.0-windows\Journal_Program_9.runtimeconfig.json
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\bin\Debug\net6.0-windows\Journal_Program_9.dll
-D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\bin\Debug\net6.0-windows\ref\Journal_Program_9.dll
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\bin\Debug\net6.0-windows\Journal_Program_9.pdb
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\Journal_Program_9.Form1.resources
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\Journal_Program_9.vbproj.GenerateResource.cache
@@ -14,3 +13,5 @@ D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\ref\Journal_Program_9.dll
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\Journal_Program_9.pdb
 D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\Journal_Program_9.genruntimeconfig.cache
+D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\Journal_Program_9.vbproj.AssemblyReference.cache
+D:\practicals\vb.NET projects\Journal Programs\Journal_Program_9\Journal_Program_9\obj\Debug\net6.0-windows\refint\Journal_Program_9.dll
