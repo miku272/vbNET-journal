@@ -1,5 +1,4 @@
 ﻿Public Class Form1
-
     Private Function Add(ByVal a As Integer, ByVal b As Integer) As Integer
         Dim c As Integer = a + b
 

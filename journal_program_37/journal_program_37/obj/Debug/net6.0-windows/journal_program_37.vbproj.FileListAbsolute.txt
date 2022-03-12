@@ -1,0 +1,17 @@
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\bin\Debug\net6.0-windows\journal_program_37.exe
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\bin\Debug\net6.0-windows\journal_program_37.deps.json
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\bin\Debug\net6.0-windows\journal_program_37.runtimeconfig.json
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\bin\Debug\net6.0-windows\journal_program_37.dll
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\bin\Debug\net6.0-windows\journal_program_37.pdb
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.vbproj.AssemblyReference.cache
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.Form1.resources
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.vbproj.GenerateResource.cache
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.AssemblyInfoInputs.cache
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.AssemblyInfo.vb
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.vbproj.CoreCompileInputs.cache
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.dll
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\refint\journal_program_37.dll
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.pdb
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\journal_program_37.genruntimeconfig.cache
+D:\practicals\vb.NET projects\Journal Programs\journal_program_37\journal_program_37\obj\Debug\net6.0-windows\ref\journal_program_37.dll
