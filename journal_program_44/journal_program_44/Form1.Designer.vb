@@ -32,6 +32,7 @@ Partial Class Form1
         '
         'RichTextBox1
         '
+        Me.RichTextBox1.Font = New System.Drawing.Font("Segoe UI", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.RichTextBox1.Location = New System.Drawing.Point(374, 66)
         Me.RichTextBox1.Name = "RichTextBox1"
         Me.RichTextBox1.Size = New System.Drawing.Size(685, 203)
