@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        RichTextBox1.Text = "My name is Naresh Sharma"
+        RichTextBox1.Text = "Sarita Yadav"
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If ColorDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then

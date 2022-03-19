@@ -82,7 +82,7 @@ Partial Class Form1
         '
         Me.CheckedListBox1.Font = New System.Drawing.Font("Segoe UI", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.CheckedListBox1.FormattingEnabled = True
-        Me.CheckedListBox1.Items.AddRange(New Object() {"Naresh", "Mukesh", "Rajesh", "Om", "Jayveer", "Hetal", "Heena", "Sarita", "Smit"})
+        Me.CheckedListBox1.Items.AddRange(New Object() {"Heena", "Hetal", "Shivani", "Rajesh", "Krina", "Sarita"})
         Me.CheckedListBox1.Location = New System.Drawing.Point(517, 49)
         Me.CheckedListBox1.Name = "CheckedListBox1"
         Me.CheckedListBox1.Size = New System.Drawing.Size(447, 460)

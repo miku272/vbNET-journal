@@ -11,7 +11,7 @@
         Return c
     End Function
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MsgBox(String.Format("My name is {0}", Add("Naresh ", "Sharma")))
+        MsgBox(String.Format("My name is {0}", Add("Sarita ", "Yadav")))
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
