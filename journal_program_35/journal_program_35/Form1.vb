@@ -10,8 +10,8 @@
         End With
 
         With ComboBox2.Items
-            .Add("Sarita")
             .Add("Rajesh")
+            .Add("Naresh")
             .Add("Ashutosh")
             .Add("Heena")
             .Add("Hetal")

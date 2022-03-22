@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim str1, str2 As String
-        str1 = "Sarita "
+        str1 = "Rajesh "
         str2 = "Yadav "
 
         'Length
